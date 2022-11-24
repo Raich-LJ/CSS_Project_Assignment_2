@@ -1,0 +1,25 @@
+.body {
+  background-color: white;
+  font-size: 14px;
+}
+.heading {
+  font-size: 18px;
+}
+#my_tech {
+  color: green;
+  /* font-size: 14px; */
+}
+#my_understanding {
+  color: red;
+  /* font-size: 14px; */
+}
+#css_properties {
+  color: blue;
+  /* font-size: 14px; */
+}
+
+/* Dear tutor, please note, although it wasn't mentioned that we should make
+ the font size generic as included in the body selector above, 
+ I just chose to also use id selectors and comment them out to 
+ show that it can be achieved both ways. 
+I'm honestly not sure if I'm making sense. */
